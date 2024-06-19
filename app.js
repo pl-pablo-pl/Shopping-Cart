@@ -3,7 +3,7 @@ let ArrProducts=[
     {
         id:1,
         name:'mom fit',
-        image:'img/mom fit.jpg',
+        image:'mom fit.jpg',
         // image:'img/pexels-adeoye-daniel-806266234-20645805.jpg',
         price:'15000',
         rating:4
@@ -11,7 +11,7 @@ let ArrProducts=[
     {
         id:2,
         name:'mom style',
-        image:'img/momstyle2.jpg',
+        image:'momstyle2.jpg',
         // image:'img/pexels-craytive-1478442.jpg',
         price:'20000',
         rating:4
@@ -20,7 +20,7 @@ let ArrProducts=[
     {
         id:3,
         name:'half baggy',
-        image:'img/halfbag.jpg',
+        image:'halfbag.jpg',
         // image:'img/pexels-mstudio-360817-1240892.jpg',
         price:'25000',
         rating:5
@@ -28,7 +28,7 @@ let ArrProducts=[
     {
         id:4,
         name:'bershka',
-        image:'img/bershka.jpg',
+        image:'bershka.jpg',
         // image:'img/pexels-nytheone-1031955.jpg',
         price:'22000',
         rating:5
@@ -36,21 +36,21 @@ let ArrProducts=[
     {
         id:5,
         name:'baggy',
-        image:'img/pexels-cottonbro-10400987.jpg',
+        image:'pexels-cottonbro-10400987.jpg',
         price:'29000',
         rating:5
     },
     {
         id:6,
         name:'all star',
-        image:'img/view-skateboard-with-retro-memorabilia.jpg',
+        image:'view-skateboard-with-retro-memorabilia.jpg',
         price:'26000',
         rating:5
     },
     {
         id:7,
         name:'jordan 1',
-        image:'img/pexels-nytheone-1031955.jpg',
+        image:'pexels-nytheone-1031955.jpg',
         price:'28000',
         rating:5
     },
