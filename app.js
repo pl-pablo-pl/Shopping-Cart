@@ -43,14 +43,14 @@ let ArrProducts=[
     {
         id:6,
         name:'all star',
-        image:'view-skateboard-with-retro-memorabilia.jpg',
+        image:'pexels-mstudio-360817-1240892.jpg',
         price:'26000',
         rating:5
     },
     {
         id:7,
         name:'jordan 1',
-        image:'pexels-mstudio-360817-1240892.jpg',
+        image:'pexels-nytheone-1031955.jpg',
         price:'28000',
         rating:5
     },
