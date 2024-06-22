@@ -230,6 +230,10 @@ img{
     .shoppingBasket{
       margin-right: 15rem;
     }
+
+    .active .cart{
+    left: calc(100% - 569px);
+}
 }
 
 /* @media only screent and (max-width:355px){
