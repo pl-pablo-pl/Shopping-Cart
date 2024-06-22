@@ -4,8 +4,8 @@
 
  languages used in this is project:
  + html
-   * css
-     -javascript
+   +  css
+     + javascript
 
 
 https://pl-pablo-pl.github.io/Shopping-Cart/
