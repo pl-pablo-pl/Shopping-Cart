@@ -3,9 +3,9 @@
  shopping cart with javascript and you can add prodcut and make a purchase 
 
  languages used in this is project:
- + html
+ *  html
    +  css
-     + javascript
+   -  javascript
 
 
 https://pl-pablo-pl.github.io/Shopping-Cart/
